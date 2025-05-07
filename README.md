@@ -1,7 +1,3 @@
-Here’s the refined **README.md** with your LinkedIn link, email, and removed Power BI service link (since it's locally stored):  
-
----
-
 # **🚀 Marketing Analytics Capstone Project**  
 ### **By Vijay Singh Parmar | Data Analyst**  
 
